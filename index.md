@@ -19,7 +19,7 @@
  </head>
  <body>
     <div class="row">
-        <div class="column" style="background-color:#FFB695;">
+        <div class="column" style="background-color:##34495E;">
             <h2>Column 1</h2>
             <p>Data..</p>
         </div>
