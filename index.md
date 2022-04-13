@@ -35,8 +35,8 @@
 
 <br>
 <br>
-<h1 style="text-align:center;font-family:Verdana">About me</h2>
-
+<h1 style="text-align:center;font-family:Verdana">About me</h1>
+<br>
 You can use the [editor on GitHub](https://github.com/norma-chrysiliou/norma-chrysiliou.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
