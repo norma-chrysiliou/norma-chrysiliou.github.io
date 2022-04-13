@@ -19,12 +19,12 @@
  </head>
  <body>
     <div class="row">
-        <div class="column" style="background-color:###626168;">
-            <h2>Column 1</h2>
-            <p>Data..</p>
+        <div class="column" style="background-color:#4f4a5e;">
+            <h2 style="color:#e6e6e6;text-align:center;font-family:Verdana">ANIMATION</h2>
+            <p style="color:#e6e6e6;text-align:center">Animation</p>
         </div>
-        <div class="column" style="background-color:#96D1CD;">
-            <h2>Column 2</h2>
+        <div class="column" style="background-color:#2f313c;">
+            <h2 style="color:#e6e6e6;text-align:center;font-family:Verdana">RIGGING</h2>
             <p>Data..</p>
         </div>
     </div>
