@@ -33,8 +33,9 @@
 
 
 
-
-## About me
+<br>
+<br>
+<h1 style="text-align:center;font-family:Verdana">About me</h2>
 
 You can use the [editor on GitHub](https://github.com/norma-chrysiliou/norma-chrysiliou.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
